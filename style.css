@@ -1,0 +1,24 @@
+:root {
+  color-scheme: dark;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(circle at top, #23233a, #0d0d14);
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+}
+
+#game-container {
+  border: 4px solid #2e2e45;
+  border-radius: 16px;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+}
