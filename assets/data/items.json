@@ -1,0 +1,32 @@
+[
+  {
+    "id": "axe_wood",
+    "name": "Wood Axe",
+    "damage": 12,
+    "speed": 1.0,
+    "crit": 0.05,
+    "price": 0,
+    "textureKey": "axe_wood",
+    "color": 10053156
+  },
+  {
+    "id": "axe_iron",
+    "name": "Iron Axe",
+    "damage": 22,
+    "speed": 1.2,
+    "crit": 0.1,
+    "price": 80,
+    "textureKey": "axe_iron",
+    "color": 11598060
+  },
+  {
+    "id": "axe_gold",
+    "name": "Golden Axe",
+    "damage": 35,
+    "speed": 1.4,
+    "crit": 0.15,
+    "price": 180,
+    "textureKey": "axe_gold",
+    "color": 16766765
+  }
+]
